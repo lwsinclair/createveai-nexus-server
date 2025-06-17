@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/spgoodman-createveai-nexus-server-badge.png)](https://mseep.ai/app/spgoodman-createveai-nexus-server)
+
 # Createve.AI Nexus: Enabling Real-World AI Agent Deployment 🚀
 
 **The Open-Source Bridge Between AI Agents and Enterprise Systems - Unlock Your Organization's Data and Capabilities**
